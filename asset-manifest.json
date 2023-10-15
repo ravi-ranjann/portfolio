@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.38adc954.chunk.css",
+    "main.js": "/portfolio/static/js/main.7b286fb1.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7b286fb1.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.e59e5750.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.e59e5750.js.map",
+    "static/js/2.c6fcadaf.chunk.js": "/portfolio/static/js/2.c6fcadaf.chunk.js",
+    "static/js/2.c6fcadaf.chunk.js.map": "/portfolio/static/js/2.c6fcadaf.chunk.js.map",
+    "static/js/3.5b0ae9b5.chunk.js": "/portfolio/static/js/3.5b0ae9b5.chunk.js",
+    "static/js/3.5b0ae9b5.chunk.js.map": "/portfolio/static/js/3.5b0ae9b5.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.674630f9374bdbbb78afd4bfec2fa66d.js": "/portfolio/precache-manifest.674630f9374bdbbb78afd4bfec2fa66d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.38adc954.chunk.css.map": "/portfolio/static/css/main.38adc954.chunk.css.map",
+    "static/media/Ravi_Ranjan_Resume.pdf": "/portfolio/static/media/Ravi_Ranjan_Resume.3f13959f.pdf",
+    "static/media/profile-pic.jpeg": "/portfolio/static/media/profile-pic.6920fdb2.jpeg"
+  }
+}
