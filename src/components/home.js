@@ -18,10 +18,10 @@ const Home = ({active}) => {
             Explore my creative realm.
           </h1>
           <p>
-            As an engineer with over 7+ years of dedicated experience in the IT industry and passion for coding. 
-            I am self-driven and quick to start, thriving on solving complex real-world problems. 
-            I have consistently demonstrated excellence in designing and developing sophisticated web 
-            applications with intuitive user interface design. 
+            As an engineer with extensive experience in the IT industry and a strong passion for coding, 
+            I bring a self-driven mindset and the ability to quickly take initiative. 
+            I thrive on solving complex real-world challenges and have consistently demonstrated 
+            excellence in designing and developing sophisticated web applications with intuitive and user-friendly interfaces. 
             Let's embark on a journey of code and creativity together!
             <div className="btn-con mt-10">
               <a href={resume} className="main-btn" target="_blank">
